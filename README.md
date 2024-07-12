@@ -1,8 +1,6 @@
 - 👋 **Hi, I’m @jfcode101**
+- **Software/Web Developer**
 - 
-- 👀 I'm interested in **Software/web development**
-- 🌱 I'm currently focused on **Web Development**
--  ...
 
 
 
