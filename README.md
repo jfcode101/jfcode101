@@ -7,19 +7,7 @@
 - 🌐 I enjoy creating `Responsive` and `User-friendly` web applications.
 - 🚀 Always eager to learn new technologies and improve my skills.
 
-  ## Skills
-- HTML5
-- CSS3
-- JavaScript
-- Sass
-- React
-- Bootstrap
-- Nodejs
-- Express.js
-- MangoDB
-- SQL
-- Git
-- ..
+
 
 
 
