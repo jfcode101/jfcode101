@@ -11,8 +11,13 @@
 - HTML5
 - CSS3
 - JavaScript
+- Sass
 - React
 - Bootstrap
+- Nodejs
+- Express.js
+- MangoDB
+- SQL
 - Git
 - ..
 
